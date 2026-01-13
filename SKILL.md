@@ -126,7 +126,7 @@ melt video.mp4 -filter greyscale -consumer avformat:output.mp4
 
 Extract specific segments from videos with frame-precision.
 
-**📹 Demo Video:** [demo-trimming.mp4](videos/demos/demo-trimming.mp4)
+**📹 Demo Video:** [demo-trimming.mp4](https://github.com/prudhvi1709/melt-video-editing-guide/releases/download/v1.0.0/demo-trimming.mp4)
 
 #### Basic Trim
 
@@ -211,8 +211,8 @@ Apply visual effects and filters to transform your videos.
 
 **📹 Demo Videos:**
 
-- [demo-filter-grayscale.mp4](videos/demos/demo-filter-grayscale.mp4)
-- [demo-brightness.mp4](videos/demos/demo-brightness.mp4)
+- [demo-filter-grayscale.mp4](https://github.com/prudhvi1709/melt-video-editing-guide/releases/download/v1.0.0/demo-filter-grayscale.mp4)
+- [demo-brightness.mp4](https://github.com/prudhvi1709/melt-video-editing-guide/releases/download/v1.0.0/demo-brightness.mp4)
 
 #### Grayscale (Black & White)
 
@@ -332,7 +332,7 @@ melt -query filter:brightness
 
 Create smooth transitions between video clips.
 
-**📹 Demo Video:** [demo-transitions.mp4](videos/demos/demo-transitions.mp4)
+**📹 Demo Video:** [demo-transitions.mp4](https://github.com/prudhvi1709/melt-video-editing-guide/releases/download/v1.0.0/demo-transitions.mp4)
 
 #### Basic Dissolve Transition
 
@@ -429,7 +429,7 @@ melt img1.jpg out=100 \
 
 Add text watermarks, logos, and overlays to videos.
 
-**📹 Demo Video:** [demo-watermarks.mp4](videos/demos/demo-watermarks.mp4)
+**📹 Demo Video:** [demo-watermarks.mp4](https://github.com/prudhvi1709/melt-video-editing-guide/releases/download/v1.0.0/demo-watermarks.mp4)
 
 #### Text Watermark
 
@@ -553,7 +553,7 @@ melt video.mp4 \
 
 Create slow motion, fast forward, and reverse effects.
 
-**📹 Demo Video:** [demo-speed-control.mp4](videos/demos/demo-speed-control.mp4)
+**📹 Demo Video:** [demo-speed-control.mp4](https://github.com/prudhvi1709/melt-video-editing-guide/releases/download/v1.0.0/demo-speed-control.mp4)
 
 #### Slow Motion (0.5x Speed)
 
@@ -661,7 +661,7 @@ melt video.mp4 -filter timewarp speed=0.5 -an \
 
 Create smooth audio fade in and fade out effects.
 
-**📹 Demo Video:** [demo-audio-fades.mp4](videos/demos/demo-audio-fades.mp4)
+**📹 Demo Video:** [demo-audio-fades.mp4](https://github.com/prudhvi1709/melt-video-editing-guide/releases/download/v1.0.0/demo-audio-fades.mp4)
 
 #### Fade In Only
 
@@ -793,7 +793,7 @@ melt video.mp4 \
 
 Professional color grading using lift-gamma-gain controls.
 
-**📹 Demo Video:** [demo-color-grading.mp4](videos/demos/demo-color-grading.mp4)
+**📹 Demo Video:** [demo-color-grading.mp4](https://github.com/prudhvi1709/melt-video-editing-guide/releases/download/v1.0.0/demo-color-grading.mp4)
 
 #### Warm Cinematic Look
 

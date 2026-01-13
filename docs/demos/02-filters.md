@@ -7,7 +7,7 @@ Apply visual effects and filters to transform your videos.
 ## Demo 1: Grayscale Filter
 
 <video width="100%" controls>
-  <source src="../../videos/demos/demo-filter-grayscale.mp4" type="video/mp4">
+  <source src="https://github.com/prudhvi1709/melt-video-editing-guide/releases/download/v1.0.0/demo-filter-grayscale.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -28,7 +28,7 @@ melt video.mp4 -filter greyscale -consumer avformat:output.mp4
 ## Demo 2: Brightness Adjustment
 
 <video width="100%" controls>
-  <source src="../../videos/demos/demo-brightness.mp4" type="video/mp4">
+  <source src="https://github.com/prudhvi1709/melt-video-editing-guide/releases/download/v1.0.0/demo-brightness.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

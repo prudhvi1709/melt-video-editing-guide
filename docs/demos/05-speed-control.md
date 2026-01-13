@@ -7,7 +7,7 @@ Learn how to create slow motion, fast forward, and reverse playback effects.
 ## Demo Video
 
 <video width="100%" controls>
-  <source src="../../videos/demos/demo-speed-control.mp4" type="video/mp4">
+  <source src="https://github.com/prudhvi1709/melt-video-editing-guide/releases/download/v1.0.0/demo-speed-control.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

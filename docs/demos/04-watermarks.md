@@ -7,7 +7,7 @@ Add watermarks, text, and overlays to your videos.
 ## Demo Video
 
 <video width="100%" controls>
-  <source src="../../videos/demos/demo-watermarks.mp4" type="video/mp4">
+  <source src="https://github.com/prudhvi1709/melt-video-editing-guide/releases/download/v1.0.0/demo-watermarks.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

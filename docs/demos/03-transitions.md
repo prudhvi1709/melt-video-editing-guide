@@ -7,7 +7,7 @@ Create smooth transitions between video clips.
 ## Demo Video
 
 <video width="100%" controls>
-  <source src="../../videos/demos/demo-transitions.mp4" type="video/mp4">
+  <source src="https://github.com/prudhvi1709/melt-video-editing-guide/releases/download/v1.0.0/demo-transitions.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

@@ -1,0 +1,34 @@
+{
+  "name": "melt-video-editing-guide",
+  "version": "1.0.0",
+  "description": "Comprehensive command-line video editing guide using MELT and MLT Framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "docsify serve docs",
+    "dev": "docsify serve docs --port 3000",
+    "preview": "docsify serve docs --port 8080"
+  },
+  "keywords": [
+    "melt",
+    "mlt",
+    "video-editing",
+    "command-line",
+    "ffmpeg",
+    "video-processing",
+    "multimedia",
+    "documentation"
+  ],
+  "author": "Prudhvi Krovvidi <prudhvi.krovvidi@straive.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prudhvi1709/melt-video-editing-guide.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prudhvi1709/melt-video-editing-guide/issues"
+  },
+  "homepage": "https://prudhvi1709.github.io/melt-video-editing-guide/",
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}

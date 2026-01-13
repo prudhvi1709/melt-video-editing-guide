@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+package-lock.json
+
+# Video files (use GitHub Releases instead)
+videos/demos/*.mp4
+videos/demos/*.avi
+videos/demos/*.mov
+videos/demos/*.webm
+
+# Keep directory structure
+!videos/demos/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Build files
+dist/
+build/
+
+DEPLOYMENT.md
+DEPLOYMENT_STEPS.md
+TEST_CHECKLIST.md
+SUMMARY.md

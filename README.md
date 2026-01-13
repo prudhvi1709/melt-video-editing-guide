@@ -231,7 +231,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 100% Open Source
 
 ---
-
-**Made with ❤️ by [Prudhvi Krovvidi](https://github.com/prudhvi1709)**
-
 **Last Updated:** 2026-01-13
